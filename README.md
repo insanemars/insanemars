@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @insanemars
-- 👀 I’m interested in Technology
+- 👀 I’m interested in Technology and Health. 
 - 🌱 I’m currently learning Javascript, PHP and MySQL
 
 
